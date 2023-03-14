@@ -30,9 +30,11 @@ More about my background:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhngguyen&layout=compact&show_icons=true&theme=solarized-light)](https://github.com/khanhngguyen/github-readme-stats)
 -->
 
+<p>
 <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=khanhngguyen&count_private=true&show_icons=true&theme=buefy" />
   
-<img align="center" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhngguyen&layout=compact&show_icons=true&theme=buefy" />
+<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhngguyen&layout=compact&show_icons=true&theme=buefy" />
+</p>
 
 <!--
 ##### Pinned repositories
