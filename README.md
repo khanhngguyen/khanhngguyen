@@ -30,19 +30,20 @@ More about my background:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhngguyen&layout=compact&show_icons=true&theme=solarized-light)](https://github.com/khanhngguyen/github-readme-stats)
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanhngguyen&count_private=true&show_icons=true&theme=buefy" />
+<img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=khanhngguyen&count_private=true&show_icons=true&theme=buefy" />
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhngguyen&layout=compact&show_icons=true&theme=buefy" />
+<img align="center" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhngguyen&layout=compact&show_icons=true&theme=buefy" />
 
 <!--
 ##### Pinned repositories
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://khanhngguyen.vercel.app/api/pin/?username=khanhngguyen&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 -->
+
 
 
 
