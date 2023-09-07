@@ -22,14 +22,16 @@ More about my background:
 <img alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="React" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 </p>
 <p>
 <img alt="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img alt="Dotnet" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/a92591a79a4ce31660058d7ccc66c79266931f61/topics/dotnet/dotnet.png" />
 <img alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img alt="SQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img alt="SQL" height="45" width="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img alt="Bash" height="45" width="45" src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" />
+<img alt="Azure" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />
 </p>
 
 <!--
@@ -40,7 +42,7 @@ More about my background:
 <p>
 <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api?username=khanhngguyen&count_private=true&show_icons=true&theme=buefy" />
   
-<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhngguyen&layout=compact&show_icons=true&theme=buefy" />
+<img align="center" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhngguyen&layout=compact&show_icons=true&theme=buefy&langs_count=10" />
 </p>
 
 <!--
@@ -52,9 +54,6 @@ More about my background:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 -->
-
-
-
 
 <!--
 **khanhngguyen/khanhngguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
