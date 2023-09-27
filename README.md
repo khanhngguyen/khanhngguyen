@@ -3,7 +3,7 @@
 <img alt="cat typing" height="200" src="https://images.gr-assets.com/hostedimages/1380423584ra/843925.gif" />
 
 ## :nerd_face: About me 
-I'm Kim, I joined the world of web development in late 2022. I started with HTML, CSS, Javascript & now learning more and more from there. 
+I'm Kim, I joined the world of web development in late 2022, after discovering Chrome’s developer tools & being amazed how a website it built. I am learning about Full Stack Development & making my way to be a Full Stack Developer/Software Developer soon.
 
 More about my background:
 - International Business, Bachelor's Degree - LAB University of Applied Sciences (Lahti's campus)
